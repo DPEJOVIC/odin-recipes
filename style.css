@@ -1,0 +1,12 @@
+* {
+    font-family: sans-serif, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.mainpageheading {
+    color: white;
+    background-color: black;
+}
+
+.recipelist {
+    background-color: #ffbb0080;
+}
